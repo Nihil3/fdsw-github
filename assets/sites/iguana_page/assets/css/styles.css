@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body {
+  margin: auto;
+  border: 0;
+  background-color: black;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.header {
+  text-align: center;
+  font-size: 50px;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 73px;
+}
+.headerimg {
+  width: 100%;
+  height: 100%;
+}
+.section1 {
+  background-color: black;
+  margin: 0;
+  padding: 45px 0;
+}
+.s1container {
+  width: 80%;
+  margin: 0 auto;
+}
+.s1containertxt {
+  text-align: left;
+  width: 60%;
+  padding-right: 20px;
+  vertical-align: middle;
+  display: inline-block;
+}
+.s1containertxt p {
+  letter-spacing: 0px;
+  opacity: 1;
+}
+
+/* ////////////// IMAGE SETTINGS //////////////*/
+.section1img {
+  display: inline-block;
+  width: 30%;
+  vertical-align: middle;
+}
+.section1img img {
+  width: 100%;
+}
+
+.imgsize {
+  width: 316px;
+  height: 202px;
+}
+
+.left {
+  float: left;
+  padding-left: 5%;
+}
+
+.right {
+  padding-right: 5%;
+  float: right;
+}
+
+.gallerysection {
+  padding: 75px 0;
+  padding-inline: block;
+}
+
+/* Olvide como estaba usando esto */
+/* .galleryimg {
+  display: inline-block;
+  width: 30%;
+  vertical-align: middle;
+}
+
+.galleryimg img {
+  width: 90%;
+} */
+/* //////////////////////////////////////// */
+
+/*/////////////// ICONS /////////////////// */
+.icon-section {
+  text-align: center;
+  background-color: #1e1a13;
+  padding: 50px;
+}
+.icon-section h2 {
+  font-weight: 500;
+  font-size: 40px;
+  margin-bottom: 1em;
+}
+.icon {
+  display: inline-block;
+  width: 30%;
+}
+.icon p {
+  font-size: 25px;
+  font-weight: 300;
+}
+/* ////////////////////////////////////// */
+
+/*/////////////// FOOTER /////////////////*/
+.footer {
+  color: #ffffff;
+  text-align: center;
+  margin: 0px;
+  padding: 10px;
+  background-color: #1e1a13;
+}
+.paragraph-footer a {
+  height: 102px;
+  text-align: center;
+}
+/* /////////////////////////////////////// */
+
+/* 
+Notas: estuve atorado probando muchas cosas, tengo problemas aun al recordar pero es mas porque tengo problemas de atencion y memoria.
+PD: vivo por el dia en que la interfaz cerebro ordenador sea masiva y asequible y que mi cerebro funcione como corresponde (lacks dopamine) jaja ToT */
